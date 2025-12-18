@@ -16,8 +16,8 @@ If you use this dataset, please cite:
 License: https://creativecommons.org/licenses/by/4.0/
 
 **bibtex**
-@dataset{dering_fusion_2026,
-  author    = {Dering, Charlotte and Wimmers, Alexander and von Hirschhausen, Christman},
+@dataset {dering_fusion_2026,
+  author    = {Dering, Charlotte and Wimmers, Alexander and von Hirschhausen, Christian},
   title     = {Fusion Device Table},
   year      = {2026},
   note      = {Dataset accompanying "Innovation Dynamics and Technological Maturity in the Fusion Sector: An Assessment of Fusion Projects"},
